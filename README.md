@@ -86,13 +86,6 @@ Input (3x100x100) → Conv2D(64) → Conv2D(128) → Residual Block 1
 - **Format**: PNG
 - **Lisans**: MIT License
 
-### Kullanılan Teknolojiler
-- **Deep Learning**: PyTorch
-- **Data Processing**: NumPy, Pandas
-- **Visualization**: Matplotlib, Seaborn
-- **Computer Vision**: OpenCV, PIL
-- **Model Interpretability**: Grad-CAM
-
 ## Referanslar
 
 1. He, K., et al. "Deep Residual Learning for Image Recognition." CVPR 2016.
